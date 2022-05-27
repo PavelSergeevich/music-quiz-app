@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2391a6e7.css",
+    "main.js": "/static/js/main.b25ce4cb.js",
+    "static/js/787.fe14a8f9.chunk.js": "/static/js/787.fe14a8f9.chunk.js",
+    "static/media/union.png": "/static/media/union.43c6de19780a76986cf8.png",
+    "static/media/union_sum.png": "/static/media/union_sum.807d87dbee270e837c12.png",
+    "index.html": "/index.html",
+    "main.2391a6e7.css.map": "/static/css/main.2391a6e7.css.map",
+    "main.b25ce4cb.js.map": "/static/js/main.b25ce4cb.js.map",
+    "787.fe14a8f9.chunk.js.map": "/static/js/787.fe14a8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2391a6e7.css",
+    "static/js/main.b25ce4cb.js"
+  ]
+}
